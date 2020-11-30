@@ -1,0 +1,3 @@
+﻿  CP_1.cpp
+C:\Users\Bandit\source\repos\CP_1\CP_1\CP_1.cpp(102,52): warning C4302: приведение типов: усечение из "LPWSTR" к "WORD"
+  CP_1.vcxproj -> C:\Users\Bandit\source\repos\CP_1\Debug\CP_1.exe
